@@ -22,9 +22,3 @@ A Zoom-like video conferencing web application that enables real-time video call
 - Socket.IO is used as a signaling server to exchange connection information.
 - Express.js manages server-side routing and connections.
 - Users can create or join rooms using unique room IDs.
-
-## ⚙️ Installation & Setup
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/apna-college/Zoom.git
